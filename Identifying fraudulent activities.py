@@ -20,13 +20,13 @@ warnings.simplefilter('ignore')
 # In[2]:
 
 
-fraud=pd.read_csv('/Users/angelawu/Documents/DS take home challenge/Identifying fradulent activities/Fraud.csv')
+fraud=pd.read_csv('/Identifying fradulent activities/Fraud.csv')
 
 
 # In[3]:
 
 
-ip_country=pd.read_csv('/Users/angelawu/Documents/DS take home challenge/Identifying fradulent activities/IpAddress_to_Country.csv')
+ip_country=pd.read_csv('/Identifying fradulent activities/IpAddress_to_Country.csv')
 
 
 # In[4]:
